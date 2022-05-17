@@ -48,7 +48,7 @@ export default class Command extends BaseCommand {
 │⋊ ᑎᗩᗰᗴ: ᒪᗝᐯᗴ ᗷᗝ丅❤️
 │⋊ ᑭᖇᗴᖴᎥ᙭: ${this.client.config.prefix}
 │⋊ ᗝᗯᑎᗴᖇ: *${this.client.config.prefix}mod*
-│⋊ Ǥᖇᗝᑌᑭ: http://gg.gg/Piku-and-yotsuba-support
+│⋊ Ǥᖇᗝᑌᑭ: shorturl.at/OY126
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
